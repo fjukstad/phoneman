@@ -1,2 +1,2 @@
 # phoneman
-TODO: Write a CLI that queries telefonkatalogen.no.
+TODO: Write a CLI for querying telefonkatalogen.no.
